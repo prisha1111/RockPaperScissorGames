@@ -11,4 +11,5 @@ int main(){
 		printf("The character %c is a consonant.\n",c);
 	}
 	return 0;
+	
 }
